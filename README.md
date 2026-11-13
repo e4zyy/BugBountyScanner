@@ -2,7 +2,7 @@
 
 A high‑coverage, multi‑phase bug bounty scanner that chains together best‑in‑class tools for subdomain enumeration, HTTP probing, port scanning, URL collection, vulnerability scanning, and specialized analysis.
 
-Built by Xer0TLabs x Persephrak by e4zyy.  
+Built by e4zyy | NOEL BUNSIAU.  
 This project combines existing open‑source tools into a unified mass‑web vulnerability scanner for bug bounty workflows. We credit the original GitHub repos whose tools are used.
 
 ---
@@ -135,7 +135,7 @@ The scanner will generate a `MASTER_REPORT.md` with all findings.
 
 ## Credits
 
-Coded by **Xer0TLabs x Persephrak by e4zyy**.  
+Coded by **e4zyy | NOEL BUNSIAU**.  
 Some GitHub repos are credited because we use their repositories in this toolset. This scanner combines their tools into our mass‑web vulnerability scanner for bug bounty hunting.
 
 Always use this tool responsibly and only against targets you are authorized to test.
