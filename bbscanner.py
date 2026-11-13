@@ -2,7 +2,7 @@
 """
 Security Recon Scanner v1.0
 Automated reconnaissance and vulnerability discovery framework
-Author: Xer0TLabs x Persephrak Decentralized Syndicate by e4zyy
+Author: e4zyy | NOEL BUNSIAU
 Modified: Removed payout estimates, improved structure
 """
 
